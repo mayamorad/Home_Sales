@@ -27,10 +27,3 @@ This project leverages PySpark and SparkSQL to perform data analysis on home sal
 ✅ Partition the dataset by `date_built` and write/read to Parquet  
 ✅ Create a temporary table from Parquet data and re-run SQL queries  
 ✅ Uncache the original `home_sales` table and verify  
-
-## Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Home_Sales.git
-   cd Home_Sales
